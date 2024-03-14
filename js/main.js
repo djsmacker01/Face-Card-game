@@ -61,3 +61,6 @@ function convertToNum(val){
   }
   console.log('Testing the function')
 }
+function test() {
+  
+}
