@@ -59,4 +59,5 @@ function convertToNum(val){
   else {
     return Number(val)
   }
+  console.log('Testing the function')
 }
