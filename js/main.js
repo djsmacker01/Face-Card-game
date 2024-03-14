@@ -61,6 +61,7 @@ function convertToNum(val){
   }
   console.log('Testing the function')
 }
+document.querySelector('script').addEventListener('')
 function test() {
   
 }
