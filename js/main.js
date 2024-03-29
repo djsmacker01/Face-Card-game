@@ -60,7 +60,7 @@ function convertToNum(val){
     return Number(val)
 
   }
-  // console.log('Testing the function')
+  console.log('Testing the function')
 }
 document.querySelector('script').addEventListener('click', test)
 function test() {
